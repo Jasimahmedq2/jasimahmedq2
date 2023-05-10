@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jasim</h1>
 <h3 align="center">Mern Stack web developer</h3>
+![logo](https://github.com/Jasimahmedq2/jasimahmedq2/blob/main/Coding%20is%20not%20just%20a%20job,%20it's%20a%20passion.png?raw=true)
 
 - 🌱 I’m currently learning **TypeScript, Nextjs, Redux**
 
