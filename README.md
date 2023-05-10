@@ -1,7 +1,7 @@
+![Cover Image](https://github.com/Jasimahmedq2/jasimahmedq2/blob/main/Coding%20is%20not%20just%20a%20job,%20it's%20a%20passion.png?raw=true)
+
 <h1 align="center">Hi 👋, I'm Jasim</h1>
 <h3 align="center">Mern Stack web developer</h3>
-![Cover Image](https://github.com/Jasimahmedq2/jasimahmedq2/blob/main/Coding%20is%20not%20just%20a%20job%2C%20it's%20a%20passion.png)
-
 - 🌱 I’m currently learning **TypeScript, Nextjs, Redux**
 
 - 👨‍💻 All of my projects are available at [https://jasim-personal-portfolio.netlify.app/](https://jasim-personal-portfolio.netlify.app/)
