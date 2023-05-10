@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jasim</h1>
 <h3 align="center">Mern Stack web developer</h3>
-![logo](![image](https://github.com/Jasimahmedq2/jasimahmedq2/assets/96912856/bf9b1342-3185-4d78-acae-9f3792aeb8f8)
-)
+![logo](https://github.com/Jasimahmedq2/jasimahmedq2/assets/96912856/bf9b1342-3185-4d78-acae-9f3792aeb8f8)
 
 - 🌱 I’m currently learning **TypeScript, Nextjs, Redux**
 
