@@ -12,8 +12,10 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LpZOfstXi73zhODFI8QOYWaG0zyW-CAi/view?usp=share_link](https://drive.google.com/file/d/1LpZOfstXi73zhODFI8QOYWaG0zyW-CAi/view?usp=share_link)
 
-<h3 align="left">Connect with me:</h3>
 <img align="right" width="300" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif" alt="coding"/>
+
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jasim4148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasim4148" height="30" width="40" /></a>
 <a href="https://fb.com/jasim4148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jasim4148" height="30" width="40" /></a>
