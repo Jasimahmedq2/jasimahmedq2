@@ -5,6 +5,8 @@
 
 ### My name is Jasim Ahmed, and I am an experienced MERN stack web developer with a passion for creating robust and user-friendly applications. With a strong foundation in JavaScript, I specialize in building full-stack web solutions using the MERN stack, which includes MongoDB, Express.js, React.js, and Node.js.
 
+<img align="right" width="300" src="https://dev-to-uploads.s3.amazonaws.com/i/yfn5x0sklji6legt1egf.gif" alt="coding"/>
+
 ## Skills and Expertise
 
 - JavaScript
