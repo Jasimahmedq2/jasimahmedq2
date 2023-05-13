@@ -7,17 +7,16 @@
 
 ## Skills and Expertise
 
-#### JavaScript
-#### React
-#### Redux
-#### NextJs
-#### Node.js
-#### MongoDB
-#### Express
-#### TypeScript
-#### Git
-#### GitHub
-#### tailwindCss
+- JavaScript
+- React
+- Redux
+- NextJs
+- Node.js
+- MongoDB
+- Express
+- TypeScript
+- Git & Github
+- tailwindCss
 
 ## Projects
 ## Tools Manufaturer
