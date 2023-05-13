@@ -9,10 +9,10 @@
 ## Skills and Expertise
 - JavaScript
 - React
-- Redux
 
 <img align="right" width="300" src="https://dev-to-uploads.s3.amazonaws.com/i/yfn5x0sklji6legt1egf.gif" alt="coding"/>
 
+- Redux
 - NextJs
 - Node.js
 - MongoDB
