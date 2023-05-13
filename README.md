@@ -2,20 +2,54 @@
 
 <h1 align="center">Hi 👋, I'm Jasim</h1>
 <h3 align="center">Mern Stack web developer</h3>
-- 🌱 I’m currently learning **TypeScript, Nextjs, Redux**
 
-- 👨‍💻 All of my projects are available at [https://jasim-personal-portfolio.netlify.app/](https://jasim-personal-portfolio.netlify.app/)
+### My name is Jasim Ahmed, and I am an experienced MERN stack web developer with a passion for creating robust and user-friendly applications. With a strong foundation in JavaScript, I specialize in building full-stack web solutions using the MERN stack, which includes MongoDB, Express.js, React.js, and Node.js.
 
-- 💬 Ask me about **mern stack development**
+## Skills and Expertise
 
-- 📫 How to reach me **jasim.dev48@gmail.com**
+#### JavaScript
+#### React
+#### Redux
+#### NextJs
+#### Node.js
+#### MongoDB
+#### Express
+#### TypeScript
+#### Git
+#### GitHub
+#### tailwindCss
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LpZOfstXi73zhODFI8QOYWaG0zyW-CAi/view?usp=share_link](https://drive.google.com/file/d/1LpZOfstXi73zhODFI8QOYWaG0zyW-CAi/view?usp=share_link)
+## Projects
+## Tools Manufaturer
+#### ✔ Tools Manufacturer full stack Website with Mern stack [https://tools-manufacturer-jasim.netlify.app/](https://tools-manufacturer-jasim.netlify.app/)
+**Tools Manufaturer Github:**
+#### front-end [https://github.com/Jasimahmedq2/Manufacturer-original](https://github.com/Jasimahmedq2/Manufacturer-original)
+#### back-end [https://github.com/Jasimahmedq2/manufacturer-original-server](https://github.com/Jasimahmedq2/manufacturer-original-server)
+
+## Creative Agency
+#### ✔ Creative agency with Reactjs, nodejs, expressjs, MOngoDB, and TailwindCSS [https://creative-agency-eaa8b.web.app/](https://creative-agency-eaa8b.web.app/)
+**creative agency Github:**
+#### front-end [https://github.com/Jasimahmedq2/Creative-agency-client](https://github.com/Jasimahmedq2/Creative-agency-client)
+#### back-end [https://github.com/Jasimahmedq2/creative-agency-server](https://github.com/Jasimahmedq2/creative-agency-server)
+
+## Own Social Media
+#### ✔ simple social media with mern stack [https://own-social.netlify.app/](https://own-social.netlify.app/)
+**Own Social Github:**
+#### front-end [https://github.com/Jasimahmedq2/social-media-frontEnd](https://github.com/Jasimahmedq2/social-media-frontEnd)
+#### back-end [https://github.com/Jasimahmedq2/social-media-server](https://github.com/Jasimahmedq2/social-media-server)
+
+### here more website included: [https://jasim-personal-portfolio.netlify.app/](https://jasim-personal-portfolio.netlify.app/)
+
+## Contact Information
+
+- Email: jasim.dev48@gmail.com
+- Phone No: 01794274148
+- LinkedIn: https://www.linkedin.com/in/jasim4148/
+
+- 📄 Resume [https://drive.google.com/file/d/1LpZOfstXi73zhODFI8QOYWaG0zyW-CAi/view?usp=share_link](https://drive.google.com/file/d/1LpZOfstXi73zhODFI8QOYWaG0zyW-CAi/view?usp=share_link)
 
 <img align="right" width="300" src="https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif" alt="coding"/>
 
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jasim4148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jasim4148" height="30" width="40" /></a>
 <a href="https://fb.com/jasim4148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jasim4148" height="30" width="40" /></a>
