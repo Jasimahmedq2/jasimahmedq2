@@ -22,6 +22,10 @@
 - tailwindCss
 
 ## Projects
+
+## Employee-Management
+#### employee management backend: https://github.com/Jasimahmedq2/employee-management-backend
+
 ## Tools Manufaturer
 #### ✔ Tools Manufacturer full stack Website with Mern stack [https://tools-manufacturer-jasim.netlify.app/](https://tools-manufacturer-jasim.netlify.app/)
 **Tools Manufaturer Github:**
