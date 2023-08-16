@@ -33,7 +33,7 @@
 #### front-end [https://github.com/Jasimahmedq2/Manufacturer-original](https://github.com/Jasimahmedq2/Manufacturer-original)
 #### back-end [https://github.com/Jasimahmedq2/manufacturer-original-server](https://github.com/Jasimahmedq2/manufacturer-original-server)
 
-## coloratura:
+## soloNatura:
 #### The front-end project is only for mobile devices,
 #### https://melodic-frangollo-960dd1.netlify.app/
 
