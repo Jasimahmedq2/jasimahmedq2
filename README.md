@@ -9,16 +9,17 @@
 ## Skills and Expertise
 - JavaScript
 - React
-
-<img align="right" width="300" src="https://dev-to-uploads.s3.amazonaws.com/i/yfn5x0sklji6legt1egf.gif" alt="coding"/>
-
 - Redux
 - NextJs
 - Node.js
+    <img align="right" width="300" src="https://dev-to-uploads.s3.amazonaws.com/i/yfn5x0sklji6legt1egf.gif" alt="coding"/>
 - MongoDB
+- Mongoose
+- Prisma
+- PostgreSQL
 - Express
 - TypeScript
-- Git & Github
+- Git & GitHub
 - tailwindCss
 
 ## Projects
@@ -26,25 +27,18 @@
 ## Employee-Management
 #### employee management backend: https://github.com/Jasimahmedq2/employee-management-backend
 
-## Tools Manufaturer
-#### ✔ Tools Manufacturer full stack Website with Mern stack [https://tools-manufacturer-jasim.netlify.app/](https://tools-manufacturer-jasim.netlify.app/)
-**Tools Manufaturer Github:**
+## Tools Manufacturer
+#### ✔ Tools Manufacturer full-stack Website with Mern stack [https://tools-manufacturer-jasim.netlify.app/](https://tools-manufacturer-jasim.netlify.app/)
+**Tools Manufacturer Github:**
 #### front-end [https://github.com/Jasimahmedq2/Manufacturer-original](https://github.com/Jasimahmedq2/Manufacturer-original)
 #### back-end [https://github.com/Jasimahmedq2/manufacturer-original-server](https://github.com/Jasimahmedq2/manufacturer-original-server)
 
-## Creative Agency
-#### ✔ Creative agency with Reactjs, nodejs, expressjs, MOngoDB, and TailwindCSS [https://starlit-otter-ccdc03.netlify.app/](https://starlit-otter-ccdc03.netlify.app/)
-**creative agency Github:**
-#### front-end [https://github.com/Jasimahmedq2/Creative-agency-client](https://github.com/Jasimahmedq2/Creative-agency-client)
-#### back-end [https://github.com/Jasimahmedq2/creative-agency-server](https://github.com/Jasimahmedq2/creative-agency-server)
 
-## Own Social Media
-#### ✔ simple social media with mern stack [https://own-social.netlify.app/](https://own-social.netlify.app/)
-**Own Social Github:**
-#### front-end [https://github.com/Jasimahmedq2/social-media-frontEnd](https://github.com/Jasimahmedq2/social-media-frontEnd)
-#### back-end [https://github.com/Jasimahmedq2/social-media-server](https://github.com/Jasimahmedq2/social-media-server)
 
-### here more website included: [https://jasim-personal-portfolio.netlify.app/](https://jasim-personal-portfolio.netlify.app/)
+
+
+
+### Here more websites included: [https://jasim-personal-portfolio.netlify.app/](https://jasim-personal-portfolio.netlify.app/)
 
 ## Contact Information
 
