@@ -33,7 +33,15 @@
 #### front-end [https://github.com/Jasimahmedq2/Manufacturer-original](https://github.com/Jasimahmedq2/Manufacturer-original)
 #### back-end [https://github.com/Jasimahmedq2/manufacturer-original-server](https://github.com/Jasimahmedq2/manufacturer-original-server)
 
+## coloratura:
+#### The front-end project is only for mobile devices,
+#### https://melodic-frangollo-960dd1.netlify.app/
 
+## pc builder:
+#### https://pc-builder-js.vercel.app/
+
+## books Catalogue:
+#### https://book-catalogue-assingment.netlify.app/
 
 
 
