@@ -27,6 +27,10 @@
 ## Employee-Management
 #### employee management backend: https://github.com/Jasimahmedq2/employee-management-backend
 
+## nextgen
+
+#### live: [https://nextgen-social-media.netlify.app/](https://nextgen-social-media.netlify.app/)
+
 ## Tools Manufacturer
 #### ✔ Tools Manufacturer full-stack Website with Mern stack [https://tools-manufacturer-jasim.netlify.app/](https://tools-manufacturer-jasim.netlify.app/)
 **Tools Manufacturer Github:**
