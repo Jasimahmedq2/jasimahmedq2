@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jasim</h1>
 <h3 align="center">Mern Stack web developer</h3>
 
-### My name is Jasim Ahmed, and I am an experienced MERN stack web developer with a passion for creating robust and user-friendly applications. With a strong foundation in JavaScript, I specialize in building full-stack web solutions using the MERN stack, which includes MongoDB, Express.js, React.js, and Node.js.
+### As a dedicated full-stack web developer, I specialize in MERN stack technology, proficiently handling both front-end and back-end development. On the front end, my expertise encompasses Next.js, Redux, JavaScript, and Tailwind, ensuring the creation of dynamic and responsive user interfaces. In the back end, I leverage Express.js, Node.js, Mongoose, Prisma, and TypeScript, employing these technologies to build robust and scalable server-side solutions. My database proficiency extends to MongoDB and PostgreSQL.
 
 
 ## Skills and Expertise
@@ -21,6 +21,7 @@
 - TypeScript
 - Git & GitHub
 - tailwindCss
+- socket.io
 
 ## Projects
 
