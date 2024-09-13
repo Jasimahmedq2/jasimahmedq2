@@ -3,22 +3,26 @@
 <h1 align="center">Hi 👋, I'm Jasim</h1>
 <h3 align="center">Mern Stack web developer</h3>
 
-### As a dedicated full-stack web developer, I specialize in MERN stack technology, proficiently handling both front-end and back-end development. On the front end, my expertise encompasses Next.js, Redux, JavaScript, and Tailwind, ensuring the creation of dynamic and responsive user interfaces. In the back end, I leverage Express.js, Node.js, Mongoose, Prisma, and TypeScript, employing these technologies to build robust and scalable server-side solutions. My database proficiency extends to MongoDB and PostgreSQL.
+### As a backend-focused full-stack web developer, I specialize in building efficient, scalable server-side solutions and seamless front-end integrations. I possess deep expertise in backend technologies, including SQL, Express.js, Node.js, Mongoose, Prisma, and TypeScript, which I leverage to create robust server architectures. My proficiency in database management spans MongoDB, PostgreSQL, MySQL, and Knex.js, enabling efficient data modeling and query optimization. I utilize technologies like Next.js, Redux, JavaScript, and Tailwind on the front end to deliver dynamic, responsive user interfaces. Currently, I am applying these skills as a backend developer at M360ict.
 
 
 ## Skills and Expertise
+- Nodejs
+- Express
+- Sql
+- Mysql
+- PostgreSQL
+- knexjs
+- MongoDB
+- Mongoose
+- Prisma
+- TypeScript
+    <img align="right" width="300" src="https://dev-to-uploads.s3.amazonaws.com/i/yfn5x0sklji6legt1egf.gif" alt="coding"/>
 - JavaScript
 - React
 - Redux
 - NextJs
 - Node.js
-    <img align="right" width="300" src="https://dev-to-uploads.s3.amazonaws.com/i/yfn5x0sklji6legt1egf.gif" alt="coding"/>
-- MongoDB
-- Mongoose
-- Prisma
-- PostgreSQL
-- Express
-- TypeScript
 - Git & GitHub
 - tailwindCss
 - socket.io
