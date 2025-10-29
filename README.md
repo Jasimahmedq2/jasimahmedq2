@@ -1,4 +1,3 @@
-![Cover Image](https://github.com/Jasimahmedq2/jasimahmedq2/blob/main/cover-photo.png)
 
 <h1 align="center">Hi 👋, I'm Jasim</h1>
 <h3 align="center">Mern Stack web developer</h3>
