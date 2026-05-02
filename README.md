@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Jasim</h1>
-<h3 align="center">Mern Stack web developer</h3>
+<h3 align="center">Software Developer</h3>
 
 #### As a backend-focused full-stack software developer, I specialize in building scalable web applications, robust backend systems, and AI-powered business solutions. I have strong experience with Node.js, Express.js, TypeScript, SQL, Prisma, Mongoose, MongoDB, PostgreSQL, MySQL, and Knex.js, which I use to design efficient server architectures, data models, and optimized APIs.
 
